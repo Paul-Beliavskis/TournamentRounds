@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentRounds", "TournamentRounds\TournamentRounds.csproj", "{58748FDE-C424-45C9-87EB-BA98029CBF67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentRounds.Test", "TournamentRounds.Test\TournamentRounds.Test.csproj", "{8445546B-21F2-45FC-8923-4B5172213585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58748FDE-C424-45C9-87EB-BA98029CBF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58748FDE-C424-45C9-87EB-BA98029CBF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58748FDE-C424-45C9-87EB-BA98029CBF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58748FDE-C424-45C9-87EB-BA98029CBF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8445546B-21F2-45FC-8923-4B5172213585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8445546B-21F2-45FC-8923-4B5172213585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8445546B-21F2-45FC-8923-4B5172213585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8445546B-21F2-45FC-8923-4B5172213585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF36BB8A-51A4-4755-AA4E-CA414DBB0EB3}
+	EndGlobalSection
+EndGlobal
